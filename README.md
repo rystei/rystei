@@ -26,15 +26,6 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="JAVA"
     title="Java" 
     width="30px" 
@@ -59,6 +50,15 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
   />
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <img 
     align="left" 
