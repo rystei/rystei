@@ -15,7 +15,7 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rystei?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+                src="https://custom-icon-badges.demolab.com/github/followers/rystei?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&nocache=1"
         />
     </a>
 </p>
