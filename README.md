@@ -149,3 +149,9 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
   />
 
 </p>
+
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" />
+  
+</div>
