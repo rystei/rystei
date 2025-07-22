@@ -1,12 +1,8 @@
-
-<img src="https://raw.githubusercontent.com/rystei/gitrepo/output/snake.svg" alt="Snake animation" />
-
-Sbake.yml:
 name: Generate snake animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "* */12 * * *"
 
   workflow_dispatch:
 
@@ -25,7 +21,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: rystei
+          github_user_name: SilasPires
           outputs: dist/snake.svg?palette=github-dark
 
 
