@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Colégio SESI e, atualmente, estou cursando Engenharia de Software na UniFil.
+Meu nome é Gustavo Telles, tenho 21 anos, sou desenvolvedor júnior e, atualmente, curso Engenharia de Software na UniFil.
 <p align="left">
     <a href="https://github.com/rystei?tab=repositories&sort=stargazers">
         <img 
@@ -28,7 +28,7 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
     align="left" 
     alt="JAVA"
     title="Java" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
 />
@@ -37,7 +37,7 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
     align="left" 
     alt="MYSQL"
     title="MySQL" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
   />
@@ -46,7 +46,7 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
     align="left" 
     alt="SPRING"
     title="Spring Boot" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
   />
@@ -55,66 +55,24 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-  
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
@@ -122,7 +80,7 @@ Me chamo Gustavo Cardoso Telles, tenho 21 anos e sou natural do Rio Grande do Su
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
