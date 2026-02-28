@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Meu nome é Gustavo Telles, tenho 21 anos, sou desenvolvedor júnior e, atualmente, curso Engenharia de Software na UniFil.
+Meu nome é Gustavo Telles, tenho 22 anos, sou desenvolvedor júnior e, sou formado em Engenharia de Software na UniFil.
 <p align="left">
     <a href="https://github.com/rystei?tab=repositories&sort=stargazers">
         <img 
