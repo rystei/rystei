@@ -89,16 +89,8 @@ Meu nome é Gustavo Telles, tenho 22 anos, sou desenvolvedor júnior e, sou form
 <br/>
 
 ### 📊 Estatísticas
-
 <p align="center">
-  <img
-    height="180em"
-    src="https://rystei-github-readme-stats.vercel.app/api?username=rystei&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"
-  />
-  <img
-    height="180em"
-    src="https://rystei-github-readme-stats.vercel.app/api/top-langs/?username=rystei&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=cmake,html,jupyter%20notebook,c%2B%2B,css,swift,c"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rystei&theme=transparent" />
 </p>
 
 <div align="center">
