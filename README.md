@@ -90,10 +90,8 @@ Meu nome é Gustavo Telles, tenho 22 anos, sou desenvolvedor júnior e, sou form
 
 ### 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rystei&theme=transparent" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rystei&theme=transparent&hide_border=false&locale=pt_BR)](https://git.io/streak-stats" />
 
-<div align="center">
   <img 
     src="https://raw.githubusercontent.com/rystei/rystei/output/snake.svg" 
     alt="Snake animation" 
